@@ -52,7 +52,7 @@ def getUsernameFromEnv(lesson):
   except NameError:
     raise NameError("Working directory not found. Please re-run the Classroom-Setup at the beginning of the notebook.")
 
-createDirStructure()
+# createDirStructure()
 
 # COMMAND ----------
 
